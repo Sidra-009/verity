@@ -40,8 +40,4 @@ VERITY analyzes the document and generates a simple, academic integrity report w
 - Google AI Studio + Gemini
 - Prompt-based document analysis
 
----
-
-## 🏷️ Yotube Link
-https://youtu.be/KjY9r7IOj6k?si=mQQ9zt-8eJd2u_-d
 
