@@ -1,20 +1,47 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# VERITY — Academic Integrity Analyzer
 
-# Run and deploy your AI Studio app
+A lightweight AI-powered tool to analyze academic documents for writing patterns, similarity, and originality feedback.  
+This tool helps students review their assignments and improve academic integrity before final submission.
 
-This contains everything you need to run your app locally.
+🎥 **Watch Demo:**  
+https://youtu.be/KjY9r7IOj6k
 
-View your app in AI Studio: https://ai.studio/apps/drive/1pUEtpVxXKIxkD4nD8D61mKMMQq-uJf1Z
+---
 
-## Run Locally
+## 📌 Features
 
-**Prerequisites:**  Node.js
+- 📄 **Document Upload**
+  - Upload PDF/DOCX/text files for review.
+- 🔍 **Similarity & Writing Pattern Feedback**
+  - Identifies repeated definitions and structure issues.
+- 📚 **Citation Suggestions**
+  - Highlights missing references and common citation gaps.
+- ✍️ **Originality Improvement Tips**
+  - Offers suggestions to improve writing quality and authenticity.
 
+---
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## 🚀 How It Works
+
+VERITY analyzes the document and generates a simple, academic integrity report with:
+
+- Overall risk assessment
+- Similarity review
+- Writing structure feedback
+- Citation review
+- Suggestions for improvement
+
+> This tool **does not perform internet/database plagiarism checks**. It provides guidance based on patterns and academic writing norms.
+
+---
+
+## 🧠 Technologies
+
+- Google AI Studio + Gemini
+- Prompt-based document analysis
+
+---
+
+## 🏷️ Yotube Link
+https://youtu.be/KjY9r7IOj6k?si=mQQ9zt-8eJd2u_-d
+
