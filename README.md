@@ -1,6 +1,6 @@
 # VERITY — Academic Integrity Analyzer
 
-A lightweight AI-powered tool to analyze academic documents for writing patterns, similarity, and originality feedback.  
+A tool to analyze academic documents for writing patterns, similarity, and originality feedback.  
 This tool helps students review their assignments and improve academic integrity before final submission.
 
 🎥 **Watch Demo:**  
